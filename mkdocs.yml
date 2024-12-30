@@ -1,0 +1,11 @@
+site_name: HomePro Dev Bible
+nav:
+  - Home: index.md
+theme:
+  name: terminal
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      baselevel: "0"
+      toc_depth: "0"
